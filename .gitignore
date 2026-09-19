@@ -1,0 +1,12 @@
+# Application & binaries
+Antigravity IDE/
+*.exe
+*.dll
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
